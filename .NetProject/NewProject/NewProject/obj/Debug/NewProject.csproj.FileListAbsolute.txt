@@ -1,0 +1,10 @@
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\bin\Debug\NewProject.exe.config
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\bin\Debug\NewProject.exe
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\bin\Debug\NewProject.pdb
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.csproj.AssemblyReference.cache
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.Properties.Resources.resources
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.csproj.GenerateResource.cache
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.exe
+C:\Users\emreo\Desktop\.NetProject\NewProject\NewProject\obj\Debug\NewProject.pdb
