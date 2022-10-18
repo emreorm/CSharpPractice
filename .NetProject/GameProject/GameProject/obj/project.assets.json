@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emreo\\Desktop\\.NetProject\\GameProject\\GameProject\\GameProject.csproj",
+      "projectUniqueName": "C:\\Users\\emreo\\Desktop\\CSharpPractice\\.NetProject\\GameProject\\GameProject\\GameProject.csproj",
       "projectName": "GameProject",
-      "projectPath": "C:\\Users\\emreo\\Desktop\\.NetProject\\GameProject\\GameProject\\GameProject.csproj",
+      "projectPath": "C:\\Users\\emreo\\Desktop\\CSharpPractice\\.NetProject\\GameProject\\GameProject\\GameProject.csproj",
       "packagesPath": "C:\\Users\\emreo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emreo\\Desktop\\.NetProject\\GameProject\\GameProject\\obj\\",
+      "outputPath": "C:\\Users\\emreo\\Desktop\\CSharpPractice\\.NetProject\\GameProject\\GameProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emreo\\AppData\\Roaming\\NuGet\\NuGet.Config",
